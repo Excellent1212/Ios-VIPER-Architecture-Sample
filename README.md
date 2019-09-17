@@ -109,7 +109,7 @@ It lets user to authenticate, view popular movies/tv shows or actors and see det
 ## Open in Xcode
 Clone the repository:
 
-`git clone git@github.com:tailec/ios-architecture.git`
+`git clone git@https://github.com/Excellent1212/Ios-VIPER-Architecture-Sample.git`
 
 Go to example directory, for example:
 
